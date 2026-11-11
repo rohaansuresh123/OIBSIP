@@ -1,0 +1,4 @@
+Model,Training Accuracy,Testing Accuracy
+Logistic Regression,0.9583333333333334,0.9333333333333333
+K-Nearest Neighbors,0.975,0.9333333333333333
+Random Forest,1.0,0.9
