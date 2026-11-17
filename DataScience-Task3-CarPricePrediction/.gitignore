@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 .~lock.*
 .DS_Store
+/dataset/CAR DETAILS FROM CAR DEKHO.csv
+/dataset/car data.csv
+/dataset/car details v4.csv
