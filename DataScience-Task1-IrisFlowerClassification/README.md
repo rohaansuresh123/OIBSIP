@@ -66,7 +66,7 @@ Three algorithms were evaluated:
 | KNN | 95.83% | 2.64% |
 | Random Forest | 95.00% | 3.12% |
 
-Logistic Regression was selected. It tied with KNN for the highest mean cross-validation accuracy.
+Logistic Regression was selected because it achieved the highest mean cross-validation accuracy, tied with KNN. Since both models had identical scores, Logistic Regression was selected using the first-model tie-breaking order in the evaluation script.
 
 ### Final Test Results
 
